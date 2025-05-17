@@ -1,4 +1,4 @@
-# # 🏎️ F1 Tyre Strategy & Performance Predictor
+# 🏎️ F1 Tyre Strategy & Performance Predictor
 
 A data-driven predictive analytics project designed to forecast **Formula 1 race tyre strategies and driver performance outcomes**. This project combines multiple machine learning models to help race strategists, analysts, and motorsport enthusiasts gain insights into potential race outcomes based on historical race data and grid positions.
 
